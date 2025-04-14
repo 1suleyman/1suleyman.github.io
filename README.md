@@ -1,7 +1,3 @@
-Absolutely! Here's your updated **README** with the contact section changed to include just your LinkedIn profile:
-
----
-
 # 🌐 1suleyman.github.io – Cloud Portfolio
 
 Welcome to my cloud portfolio! This site is a living documentation of my journey as I dive deeper into **Azure**, **DevOps**, and **cloud automation**.
