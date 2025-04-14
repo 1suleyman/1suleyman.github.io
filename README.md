@@ -31,7 +31,7 @@ Whether you're a recruiter, mentor, or fellow cloud enthusiast—I'm glad you're
 ## 📚 Learning in Public
 
 I'm a strong believer in **learning by doing**—and sharing.  
-My portfolio links directly to my [Dev.to blog]((https://dev.to/1suleyman)) where I document everything from notes to hands-on exercises.
+My portfolio links directly to my [Dev.to blog](https://dev.to/1suleyman) where I document everything from notes to hands-on exercises.
 
 Every skill listed on the site will link to real posts and projects that show how I’m applying it.
 
